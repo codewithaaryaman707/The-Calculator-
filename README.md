@@ -1,2 +1,5 @@
-# The-Calculator-
-Hello developers. This is a basic application that you can refer to while beginning your journey in the field of Android development. This is a Calculator which can perform all the basic calculations on the Android phone
+# CalculatorAndroid
+Fully functionable calculator app in Android Studio
+Youtube Tutorial here : https://youtu.be/X3KQdwVlo1Q
+
+![calculator](https://user-images.githubusercontent.com/68380115/169702523-1a5d826d-fb0f-4377-bc58-f62d4ca53535.jpg)
